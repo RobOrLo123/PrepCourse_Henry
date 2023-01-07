@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Prueba modulo2
+Prueba de como crear un repositorio y clonardo desde github a la pc
